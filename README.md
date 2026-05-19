@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="qr_code_generation banner" width="100%">
+</p>
+
 # QR Code Generator
 
 A simple Python command-line tool to generate QR codes from URLs or text.
